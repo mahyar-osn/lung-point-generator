@@ -1,1 +1,1 @@
-# Lung Annotation Maker
+# Lung Point Generator
